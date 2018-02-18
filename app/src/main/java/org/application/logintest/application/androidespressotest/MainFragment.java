@@ -55,6 +55,11 @@ public class MainFragment extends Fragment {
 
     }
 
+    private void Login() {
+
+
+    }
+
     View.OnClickListener login = new View.OnClickListener() {
         @Override
         public void onClick(View view) {
