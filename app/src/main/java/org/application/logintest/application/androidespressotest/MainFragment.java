@@ -72,6 +72,7 @@ public class MainFragment extends Fragment {
 
     private void P() {
 
+        boolean sts = false;
 
     }
 
