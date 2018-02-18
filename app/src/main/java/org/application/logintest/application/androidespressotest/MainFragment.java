@@ -72,11 +72,8 @@ public class MainFragment extends Fragment {
 
     private void P() {
 
-        int i = 1;
+        String HelloWorld = "HelloWorld";
 
-        int ii = 2;
-
-        int iii = 3;
 
     }
 
