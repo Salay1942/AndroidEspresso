@@ -72,7 +72,7 @@ public class MainFragment extends Fragment {
 
     private void P() {
 
-        int a = 0;
+        int y = 0;
 
 
     }
