@@ -74,7 +74,9 @@ public class MainFragment extends Fragment {
 
         String fuck = "";
 
-        int aa = 1;
+        String fuck1 = "";
+
+        String fuck2 = "";
 
 
     }
