@@ -70,6 +70,11 @@ public class MainFragment extends Fragment {
 
     }
 
+    private void P() {
+
+
+    }
+
 
     View.OnClickListener login = new View.OnClickListener() {
         @Override
