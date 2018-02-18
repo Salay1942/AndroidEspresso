@@ -72,7 +72,11 @@ public class MainFragment extends Fragment {
 
     private void P() {
 
-        String HelloWorld = "HelloWorld";
+        int a = 0;
+
+        int aa = 1;
+
+        int aaa = 2;
 
 
     }
