@@ -74,10 +74,6 @@ public class MainFragment extends Fragment {
 
         int a = 0;
 
-        int aa = 1;
-
-        int aaa = 2;
-
 
     }
 
